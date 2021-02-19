@@ -1,10 +1,10 @@
 # maxwallpaper
 
 ### 介绍
-> 这是2018年一个兴趣作品，最初是因为想学swift，所以由我、[窦大吊](https://github.com/elijahdou)、昆叔三个人共同开发完成且上线 App Store。
+> 这是2018年一个兴趣作品，最初是因为想学swift，所以由我、某大吊、昆叔三个人共同开发完成且上线 App Store。
 2020年因为没钱，所以云服务器、CDN、域名都没有续费，就暂停了！同时也开源给需要的人， 希望有投资人可以投那么几千块钱，分50%的stock，让我们重新上架，这简直一本万利啊哈哈。
 
-窦大吊，哦...不对，虽是事实，但略显不敬，应该是 [窦大神](https://github.com/elijahdou)作为iOS开发主力，搞定了所有难点、性能优化等；
+某大吊，哦...不对，虽是事实，但略显不敬，应该是某大神作为iOS开发主力，搞定了所有难点、性能优化等；
 
 昆叔则是后端大吊，2020年昆叔也结婚了，进了围城，祝你像我一样开心！
 
@@ -19,10 +19,10 @@
 1、首页用瀑布流形式，壁纸质量高，可以看大图，可以预览样式，可以下载就够了;
 2、其它功能理论上都不需要了，例如：设置，收藏、滤镜、评价、分享、反馈、关于等。
 最终的首页是这样：
-[home](https://github.com/youngxkk/maxwallpaper/blob/main/readmepic/home.jpg)
+![home](https://github.com/youngxkk/maxwallpaper/blob/main/readmepic/home.jpg)
 
 下图是壁纸大图界面的隐藏手势操作:
-[gesture](https://github.com/youngxkk/maxwallpaper/blob/main/readmepic/gesture.jpg)
+![gesture](https://github.com/youngxkk/maxwallpaper/blob/main/readmepic/gesture.jpg)
 
 ### GNU GPL
 USE GNU General Public Licence (GPL) 
