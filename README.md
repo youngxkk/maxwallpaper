@@ -20,9 +20,9 @@
 2、其它功能理论上都不需要了，例如：设置，收藏、滤镜、评价、分享、反馈、关于等。
 最终的首页是这样：
 ![home](https://github.com/youngxkk/maxwallpaper/blob/main/readmepic/home.jpg)
-
+![home.jpg](https://i.loli.net/2021/02/19/9cQtGL1NCHDZhFY.jpg)
 下图是壁纸大图界面的隐藏手势操作:
 ![gesture](https://github.com/youngxkk/maxwallpaper/blob/main/readmepic/gesture.jpg)
-
+![gesture.jpg](https://i.loli.net/2021/02/19/9FDCLGjzklqiOpS.jpg)
 ### GNU GPL
 USE GNU General Public Licence (GPL) 
