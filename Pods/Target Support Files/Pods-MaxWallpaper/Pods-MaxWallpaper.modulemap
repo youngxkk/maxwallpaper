@@ -1,0 +1,6 @@
+framework module Pods_MaxWallpaper {
+  umbrella header "Pods-MaxWallpaper-umbrella.h"
+
+  export *
+  module * { export * }
+}

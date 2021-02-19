@@ -1,0 +1,49 @@
+/* 
+  Localizable.strings
+  MaxWallpaper
+
+  Created by elijah on 2018/7/17.
+  Copyright © 2018年 elijah. All rights reserved.
+*/
+
+// MARK: 首页菜单
+"home_setting_menu_rate_us" = " 反馈";
+"home_setting_menu_feedback" = "反馈";
+"home_setting_menu_share_app" = "分享 APP";
+"home_setting_menu_setting" = "设置";
+"home_feedback_mail_subject" = "反馈或建议";
+"home_share_app_title" = "MAX壁纸";
+"home_page_home" = "MAX";
+"home_page_favorite" = "收藏";
+
+// Mark：首页为空
+"empty_refresh" = "刷新";
+"empty_title" = "没有网络";
+"empty_content" = "检查一下无线网和4G后，点击上方的刷新按钮重试一下";
+
+// MARK: 艺术图
+"Art_image_title" = "MAX WallPaPer";
+
+// MARK: alert
+"common_alert_title_tip" = "提示";
+"photo_library_authorized_tip" = "需要相册的权限";
+"save_image_to_library_success" = "下载成功";
+"save_image_to_library_failure" = "下载失败";
+"no_favorite_images" = "没有收藏的图片";
+
+// MARK: 网络提示
+"network_req_failure" = "手机断网了吧";
+"network_req_no_data" = "我猜手机网络不好";
+"network_not_connected" = "我猜手机断网了";
+"network_req_limited" = "请求次数达到今日上限了，明天再来刷新哦";
+"network_no_easter_egg_data" = "现在还没有新的彩蛋";
+
+//设置界面
+"setting_cell_favorite" = "收藏";
+"setting_cell_soundSwitch" = "音效开关";
+"setting_cell_feedback" = "反馈";
+"setting_cell_rate_us" = "给我们好评";
+"setting_cell_clear_cache" = "清除缓存";
+"setting_cell_invite_riends" = "分享给朋友";
+"setting_cell_privacy_policy" = "隐私条款";
+"setting_cell_about_us" = "关于我们";

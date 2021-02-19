@@ -1,0 +1,50 @@
+/* 
+  Localizable.strings
+  MaxWallpaper
+
+  Created by elijah on 2018/7/17.
+  Copyright © 2018年 elijah. All rights reserved.
+*/
+
+// MARK: 首页菜单
+"home_setting_menu_rate_us" = "Rate us";
+"home_setting_menu_feedback" = "Feedback";
+"home_setting_menu_share_app" = "Share APP";
+"home_setting_menu_setting" = "Setting";
+"home_feedback_mail_subject" = "Suggestion or feedback";
+"home_share_app_title" = "MAX Wallpaper";
+"home_page_home" = "MAX";
+"home_page_favorite" = "Favorite";
+
+// Mark：首页为空
+"empty_refresh" = "Refresh";
+"empty_title" = "No Connection";
+"empty_content" = "Perhaps the network connection is not good, click the button below to try again";
+
+// MARK: 艺术图
+"Art_image_title" = "MAX WallPaPer";
+
+// MARK: alert
+"common_alert_title_tip" = "Prompt";
+"photo_library_authorized_tip" = "Have not authorized album permissions yet";
+"save_image_to_library_success" = "Saved to Album";
+"save_image_to_library_failure" = "Failed";
+"no_favorite_images" = "No favorite images";
+
+// MARK: 网络提示
+"network_req_failure" = "Failed to get data, please try again later.";
+"network_req_no_data" = "Looks like you haven't got the data, try it later.";
+"network_not_connected" = "Looks like the network is not connected, please check the network settings.";
+"network_req_limited" = "Requests reached today's limit";
+"network_no_easter_egg_data" = "No Easter egg data was retrieved";
+
+//设置界面
+"setting_cell_favorite" = "Favorite";
+"setting_cell_soundSwitch" = "SoundSwitch";
+"setting_cell_feedback" = "Feedback";
+"setting_cell_rate_us" = "Rate Us";
+"setting_cell_clear_cache" = "Clear Cache";
+"setting_cell_invite_riends" = "Invite Friends";
+"setting_cell_privacy_policy" = "Privacy Policy";
+"setting_cell_about_us" = "About Us";
+

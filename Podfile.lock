@@ -1,0 +1,194 @@
+PODS:
+  - Alamofire (4.8.1)
+  - Chrysan (1.4.0)
+  - CocoaLumberjack/Core (3.5.2)
+  - CocoaLumberjack/Swift (3.5.2):
+    - CocoaLumberjack/Core
+  - Crashlytics (3.12.0):
+    - Fabric (~> 1.9.0)
+  - Fabric (1.9.0)
+  - FBRetainCycleDetector (0.1.4)
+  - Firebase/Core (5.19.0):
+    - Firebase/CoreOnly
+    - FirebaseAnalytics (= 5.8.0)
+  - Firebase/CoreOnly (5.19.0):
+    - FirebaseCore (= 5.4.0)
+  - FirebaseAnalytics (5.8.0):
+    - FirebaseCore (~> 5.4)
+    - FirebaseInstanceID (~> 3.8)
+    - GoogleAppMeasurement (= 5.8.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 5.2)
+    - GoogleUtilities/MethodSwizzler (~> 5.2)
+    - GoogleUtilities/Network (~> 5.2)
+    - "GoogleUtilities/NSData+zlib (~> 5.2)"
+    - nanopb (~> 0.3)
+  - FirebaseCore (5.4.0):
+    - GoogleUtilities/Environment (~> 5.2)
+    - GoogleUtilities/Logger (~> 5.2)
+  - FirebaseInstanceID (3.8.0):
+    - FirebaseCore (~> 5.2)
+    - GoogleUtilities/Environment (~> 5.2)
+    - GoogleUtilities/UserDefaults (~> 5.2)
+  - fishhook (0.2)
+  - GoogleAppMeasurement (5.8.0):
+    - GoogleUtilities/AppDelegateSwizzler (~> 5.2)
+    - GoogleUtilities/MethodSwizzler (~> 5.2)
+    - GoogleUtilities/Network (~> 5.2)
+    - "GoogleUtilities/NSData+zlib (~> 5.2)"
+    - nanopb (~> 0.3)
+  - GoogleUtilities/AppDelegateSwizzler (5.5.0):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (5.5.0)
+  - GoogleUtilities/Logger (5.5.0):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/MethodSwizzler (5.5.0):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/Network (5.5.0):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (5.5.0)"
+  - GoogleUtilities/Reachability (5.5.0):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/UserDefaults (5.5.0):
+    - GoogleUtilities/Logger
+  - Kingfisher (5.2.0)
+  - KingfisherWebP (0.5.0):
+    - Kingfisher (~> 5.0)
+    - libwebp (>= 0.5.0)
+  - libwebp (1.0.2):
+    - libwebp/core (= 1.0.2)
+    - libwebp/dec (= 1.0.2)
+    - libwebp/demux (= 1.0.2)
+    - libwebp/dsp (= 1.0.2)
+    - libwebp/enc (= 1.0.2)
+    - libwebp/mux (= 1.0.2)
+    - libwebp/utils (= 1.0.2)
+    - libwebp/webp (= 1.0.2)
+  - libwebp/core (1.0.2):
+    - libwebp/webp
+  - libwebp/dec (1.0.2):
+    - libwebp/core
+  - libwebp/demux (1.0.2):
+    - libwebp/core
+  - libwebp/dsp (1.0.2):
+    - libwebp/core
+  - libwebp/enc (1.0.2):
+    - libwebp/core
+  - libwebp/mux (1.0.2):
+    - libwebp/core
+  - libwebp/utils (1.0.2):
+    - libwebp/core
+  - libwebp/webp (1.0.2)
+  - MJRefresh (3.1.16)
+  - MLeaksFinder (1.0.0):
+    - FBRetainCycleDetector
+  - nanopb (0.3.901):
+    - nanopb/decode (= 0.3.901)
+    - nanopb/encode (= 0.3.901)
+  - nanopb/decode (0.3.901)
+  - nanopb/encode (0.3.901)
+  - OOMDetector (1.3):
+    - fishhook (= 0.2)
+  - pop (1.0.12)
+  - Reveal-SDK (17)
+  - RSLoadingView (1.1.3)
+  - SDVersion (4.3.2)
+  - Sharaku (1.0.2)
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Chrysan
+  - CocoaLumberjack/Swift
+  - Crashlytics
+  - Fabric
+  - FBRetainCycleDetector (from `https://github.com/facebook/FBRetainCycleDetector.git`, branch `master`)
+  - Firebase/Core
+  - Kingfisher (= 5.2.0)
+  - KingfisherWebP (= 0.5.0)
+  - MJRefresh
+  - MLeaksFinder
+  - OOMDetector
+  - pop
+  - Reveal-SDK (= 17)
+  - RSLoadingView
+  - SDVersion
+  - "Sharaku (from `git@github.com:elijahdou/Sharaku.git`)"
+  - SnapKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Chrysan
+    - CocoaLumberjack
+    - Crashlytics
+    - Fabric
+    - Firebase
+    - FirebaseAnalytics
+    - FirebaseCore
+    - FirebaseInstanceID
+    - fishhook
+    - GoogleAppMeasurement
+    - GoogleUtilities
+    - Kingfisher
+    - KingfisherWebP
+    - libwebp
+    - MJRefresh
+    - MLeaksFinder
+    - nanopb
+    - OOMDetector
+    - pop
+    - Reveal-SDK
+    - RSLoadingView
+    - SDVersion
+    - SnapKit
+
+EXTERNAL SOURCES:
+  FBRetainCycleDetector:
+    :branch: master
+    :git: https://github.com/facebook/FBRetainCycleDetector.git
+  Sharaku:
+    :git: "git@github.com:elijahdou/Sharaku.git"
+
+CHECKOUT OPTIONS:
+  FBRetainCycleDetector:
+    :commit: 55e6e5d615eaab4eff8589488c0aaa997f49045a
+    :git: https://github.com/facebook/FBRetainCycleDetector.git
+  Sharaku:
+    :commit: e0bd14d0591fece10223652fb31bef4d871a1ac6
+    :git: "git@github.com:elijahdou/Sharaku.git"
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  Chrysan: 14c23bd647d5adaef5e3cd796dd5c51d2f7b451f
+  CocoaLumberjack: 118bf4a820efc641f79fa487b75ed928dccfae23
+  Crashlytics: 07fb167b1694128c1c9a5a5cc319b0e9c3ca0933
+  Fabric: f988e33c97f08930a413e08123064d2e5f68d655
+  FBRetainCycleDetector: 46daef95c2dfa9be34b53087edf6a8f34e4c749c
+  Firebase: c60d49e9c2630875a96207d15e2affb8364996d1
+  FirebaseAnalytics: fd72a26bf8dac84cefba2f0864366f718555a5b0
+  FirebaseCore: 22a79a961c3951ef2f77b67bfbc99e454247b319
+  FirebaseInstanceID: cf488df2f4b79782f0e430b04a0e17c0aa7979b2
+  fishhook: ea19933abfe8f2f52c55fd8b6e2718467d3ebc89
+  GoogleAppMeasurement: 1624046ab1bcc5e170061a56ef5679000b079c8e
+  GoogleUtilities: 6481e6318c5fcabaaa8513ef8120f329055d7c10
+  Kingfisher: 07067cfacf371117330dceb4b4b8f5c4b691ab42
+  KingfisherWebP: 310f69a932151c526a7649de965f57e56918c8d0
+  libwebp: b068a3bd7c45f7460f6715be7bed1a18fd5d6b48
+  MJRefresh: 7798e16e53a5ef7f332dd05b27664db4e29530fd
+  MLeaksFinder: 8c435bd2f6d070af18cff082b503b21adc130fc0
+  nanopb: 2901f78ea1b7b4015c860c2fdd1ea2fee1a18d48
+  OOMDetector: c23f4dfc969ea9bbd68a57cf7e5a3ca2169263cd
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+  Reveal-SDK: a6df49f47319bd19a110c960c498af32df72c0af
+  RSLoadingView: c7749afdd455229643e8f34277d0695973a15b1a
+  SDVersion: 18f32c835c1543611fcfae3c6accd9a04b90597e
+  Sharaku: 9e8fce1f4b9f324e488d14f76ae52ff5b098b42c
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: 077eb53cf4ef4dc4e62c27bcbf782c03d6e86b51
+
+COCOAPODS: 1.6.0.beta.1

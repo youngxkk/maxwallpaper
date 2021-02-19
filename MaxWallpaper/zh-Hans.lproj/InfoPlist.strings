@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  MaxWallpaper
+
+  Created by elijah on 2018/7/17.
+  Copyright © 2018年 elijah. All rights reserved.
+*/
+
+CFBundleDisplayName = "壁纸";
+NSLocationWhenInUseUsageDescription = "APP需要定位权限给你个性化推荐内容";
+NSPhotoLibraryUsageDescription = "APP需要相册权限保存壁纸";
+NSMicrophoneUsageDescription = "APP需要打开麦克风";
+NSCalendarsUsageDescription = "APP需要日历权限";
