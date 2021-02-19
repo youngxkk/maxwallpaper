@@ -2,14 +2,14 @@
 
 ### 介绍
 > 这是2018年一个兴趣作品，最初是因为想学swift，所以由我、[窦大吊](https://github.com/elijahdou)、昆叔三个人共同开发完成且上线 App Store。
--
-> 窦大吊，哦...不对，虽是事实，但略显不敬，应该是 [窦大神](https://github.com/elijahdou)作为iOS开发主力，搞定了所有难点、性能优化等；
--
-> 昆叔则是后端大吊，2020年昆叔也结婚了，进了围城，祝你像我一样开心！
--
-> 我作为初学swift的小白，也写了部分简单的模块，同时 UI/UX 也全包，还顺便学了下 [python爬虫](https://github.com/youngxkk/spider-python) 去从多个网站爬图来给我们的App扩充粮草；
--
-> 2020年因为没钱，所以云服务器、CDN、域名都没有续费，就暂停了！ 希望有投资人可以投那么几千块钱，分50%的stock，简直一本万利啊哈哈。
+2020年因为没钱，所以云服务器、CDN、域名都没有续费，就暂停了！同时也开源给需要的人， 希望有投资人可以投那么几千块钱，分50%的stock，让我们重新上架，这简直一本万利啊哈哈。
+
+窦大吊，哦...不对，虽是事实，但略显不敬，应该是 [窦大神](https://github.com/elijahdou)作为iOS开发主力，搞定了所有难点、性能优化等；
+
+昆叔则是后端大吊，2020年昆叔也结婚了，进了围城，祝你像我一样开心！
+
+我作为初学swift的小白，也写了部分简单的模块，同时 UI/UX 也全包，还顺便学了下 [python爬虫](https://github.com/youngxkk/spider-python) 去从多个网站爬图来给我们的App扩充粮草；
+
 
 
 ###  App Store里的介绍:
@@ -23,3 +23,6 @@
 
 下图是壁纸大图界面的隐藏手势操作:
 [gesture](https://github.com/youngxkk/maxwallpaper/blob/main/readmepic/gesture.jpg)
+
+### GNU GPL
+USE GNU General Public Licence (GPL) 
